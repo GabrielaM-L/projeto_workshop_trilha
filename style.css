@@ -1,0 +1,16 @@
+body {
+    background-color: darkcyan;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin-left: 30px;
+}
+.imagens {
+    text-align: center;
+    margin-top: 100px;
+}
